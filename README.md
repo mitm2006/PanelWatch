@@ -94,8 +94,6 @@ This indicates that the model has learned meaningful and transferable features r
 ---
 
 ## Future Improvements
-
-* Incorporate data augmentation for better robustness
 * Experiment with deeper architectures (e.g., ResNet, EfficientNet)
 * Deploy as a real-time monitoring system
 * Integrate thermal image analysis for enhanced fault detection
